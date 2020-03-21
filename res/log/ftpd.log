@@ -1,0 +1,411 @@
+[ INFO] 2018-08-13 14:28:52,527 [] [] Record->cf.duba.net.		0	IN	A
+[ INFO] 2018-08-13 14:28:52,528 [] [] Record->cf.duba.net.		0	IN	A
+[ INFO] 2018-08-13 14:28:52,527 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:28:52,590 [] [] Record->newlyric.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:28:52,591 [] [] Record->newlyric.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:28:52,601 [] [] Record->rq.cct.cloud.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:28:52,690 [] [] Record->rq.wh.cmcm.com.		0	IN	A
+[ INFO] 2018-08-13 14:28:52,973 [] [] Record->rq.wh.cmcm.com.		0	IN	A
+[ INFO] 2018-08-13 14:28:53,395 [] [] Record->rq.upgrade.cloud.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:28:53,519 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:28:53,600 [] [] Record->rq.cct.cloud.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:28:54,277 [] [] Record->rcmd.pop.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:28:54,591 [] [] Record->newlyric.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:28:54,592 [] [] Record->newlyric.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:28:54,691 [] [] Record->rq.wh.cmcm.com.		0	IN	A
+[ INFO] 2018-08-13 14:28:54,971 [] [] Record->rq.wh.cmcm.com.		0	IN	A
+[ INFO] 2018-08-13 14:28:55,276 [] [] Record->rcmd.pop.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:28:55,519 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:28:55,601 [] [] Record->rq.cct.cloud.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:28:56,332 [] [] Record->cf.duba.net.		0	IN	A
+[ INFO] 2018-08-13 14:28:56,335 [] [] Record->cf.duba.net.		0	IN	A
+[ INFO] 2018-08-13 14:28:57,275 [] [] Record->rcmd.pop.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:28:58,590 [] [] Record->newlyric.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:28:58,591 [] [] Record->newlyric.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:28:58,690 [] [] Record->rq.wh.cmcm.com.		0	IN	A
+[ INFO] 2018-08-13 14:28:58,972 [] [] Record->rq.wh.cmcm.com.		0	IN	A
+[ INFO] 2018-08-13 14:28:59,531 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:28:59,610 [] [] Record->rq.cct.cloud.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:01,277 [] [] Record->rcmd.pop.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:01,551 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:01,903 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:02,303 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:02,551 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:02,553 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:02,617 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:02,619 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:02,631 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:02,631 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:02,902 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:03,303 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,305 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,550 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,550 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,619 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,619 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,620 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,620 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,631 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,631 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,632 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:03,632 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,303 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,304 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,617 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,617 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,618 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,618 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,631 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,632 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,634 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,634 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:04,902 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:05,550 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:05,550 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,302 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,302 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,618 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,618 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,619 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,619 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,632 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,632 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,632 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:06,632 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:09,550 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:09,550 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,303 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,304 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,618 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,619 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,619 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,618 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,630 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,631 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,632 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:10,634 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:11,454 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:12,453 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:14,453 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:17,141 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:18,140 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:18,141 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:19,140 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:19,141 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:21,141 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:21,141 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:25,140 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:25,140 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:29:26,784 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:27,782 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:27,783 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:28,783 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:28,783 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:29,824 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:30,029 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:30,575 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:30,783 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:30,784 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:30,824 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:30,824 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:31,029 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:31,031 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:31,575 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:31,575 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:31,824 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:31,824 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:32,028 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:32,028 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:32,154 [] [] Record->www.baidu.co.		0	IN	A
+[ INFO] 2018-08-13 14:29:32,575 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:32,575 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:33,824 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:33,824 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:34,029 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:34,029 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:34,155 [] [] Record->www.baidu.co.		0	IN	AAAA
+[ INFO] 2018-08-13 14:29:34,574 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:34,575 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:34,782 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:34,783 [] [] Record->v2.cs3.duba.net.	0	IN	A
+[ INFO] 2018-08-13 14:29:36,157 [] [] Record->www.baidu.co.		0	IN	A
+[ INFO] 2018-08-13 14:29:37,824 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:37,825 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:29:38,030 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:38,030 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:38,158 [] [] Record->www.baidu.co.		0	IN	AAAA
+[ INFO] 2018-08-13 14:29:38,575 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:38,575 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:40,267 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:41,276 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:41,277 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:42,030 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:42,267 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:42,268 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:42,651 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:42,656 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:43,030 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:43,650 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:43,650 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:43,656 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:43,656 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:44,267 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:44,268 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:44,651 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:44,651 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:44,656 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:44,656 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:45,029 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:45,630 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:46,629 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:46,630 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:46,652 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:46,653 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:46,656 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:46,656 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:47,630 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:47,634 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:48,267 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:48,267 [] [] Record->nplserver.kuwo.cn.	0	IN	A
+[ INFO] 2018-08-13 14:29:49,630 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:49,631 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:50,651 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:50,651 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:50,656 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:50,657 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:51,585 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:52,285 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:52,289 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:52,583 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:53,283 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:53,283 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:53,289 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:53,291 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:53,631 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:53,631 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:54,283 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:54,283 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:54,290 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:54,290 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:54,585 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:29:56,283 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:56,283 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:56,289 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:56,290 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:29:58,095 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:58,847 [] [] Record->163.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:59,096 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:59,096 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:59,847 [] [] Record->163.com.		0	IN	A
+[ INFO] 2018-08-13 14:29:59,847 [] [] Record->163.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:00,096 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:00,096 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:00,283 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:00,283 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:00,289 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:00,290 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:00,848 [] [] Record->163.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:00,848 [] [] Record->163.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:01,137 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:01,152 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:02,095 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:02,095 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:02,136 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:02,136 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:02,151 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:02,847 [] [] Record->163.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:02,847 [] [] Record->163.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:03,137 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:03,138 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:04,152 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:05,137 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:05,137 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:08,465 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:09,138 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:09,138 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:09,304 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:09,304 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:10,303 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:10,303 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:11,074 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:12,073 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:12,073 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:12,304 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:12,305 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:13,073 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:13,073 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:15,073 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:15,075 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:16,304 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:16,304 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:16,977 [] [] Record->www.baidu.co.		0	IN	A
+[ INFO] 2018-08-13 14:30:18,980 [] [] Record->www.baidu.co.		0	IN	AAAA
+[ INFO] 2018-08-13 14:30:19,074 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:19,090 [] [] Record->www.baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:19,723 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:20,724 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:20,724 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:20,822 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:20,983 [] [] Record->www.baidu.co.		0	IN	A
+[ INFO] 2018-08-13 14:30:21,723 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:21,723 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:21,821 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:21,822 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:22,370 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:22,679 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:22,680 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:22,821 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:22,822 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:22,984 [] [] Record->www.baidu.co.		0	IN	AAAA
+[ INFO] 2018-08-13 14:30:23,119 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:23,370 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:23,372 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:23,680 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:23,681 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:23,683 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:23,684 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:23,722 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:23,722 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:24,118 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:24,119 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:24,369 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:24,369 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:24,679 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:24,680 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:24,681 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:24,682 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:24,821 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:24,822 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:25,119 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:25,120 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:26,370 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:26,370 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:26,679 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:26,682 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:26,683 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:26,683 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:27,119 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:27,119 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:27,723 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:27,724 [] [] Record->isatap.localdomain.	0	IN	A
+[ INFO] 2018-08-13 14:30:28,821 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:28,821 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:30,371 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:30,372 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:30,680 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:30,685 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:30,685 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:30,686 [] [] Record->log.kuwo.cn.		0	IN	A
+[ INFO] 2018-08-13 14:30:31,120 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:31,121 [] [] Record->xunlei.com.		0	IN	A
+[ INFO] 2018-08-13 14:30:40,820 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:41,822 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:41,824 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:42,823 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:30:42,827 [] [] Record->up.ijinshan.com.	0	IN	A
+[ INFO] 2018-08-13 14:31:14,339 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:14,920 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:15,172 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:15,176 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:15,920 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:15,920 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:16,171 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:16,172 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:16,920 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:16,925 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:18,171 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:18,172 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:18,920 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:18,924 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:22,172 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:22,172 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:22,922 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:31:22,922 [] [] Record->weibo.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:08,291 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:32:16,011 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:32:16,012 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:32:16,206 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:16,698 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 14:32:17,206 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:17,207 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:18,206 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:18,206 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:20,011 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:32:20,011 [] [] Record->teredo.ipv6.microsoft.com.	0	IN	A
+[ INFO] 2018-08-13 14:32:20,206 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:20,206 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:24,206 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:24,208 [] [] Record->baidu.com.		0	IN	A
+[ INFO] 2018-08-13 14:32:45,779 [] [] Record->qq.com.			0	IN	A
+[ INFO] 2018-08-13 18:19:44,517 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:19:44 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:19:44,587 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:20:47,710 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:20:47 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:20:47,760 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:25:17,173 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:25:17 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:25:17,227 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:25:44,069 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@17286ca: startup date [Mon Aug 13 18:25:44 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:25:44,133 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:27:22,475 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:27:22 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:27:22,538 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:27:44,557 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:27:44 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:27:44,610 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:28:00,985 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@17286ca: startup date [Mon Aug 13 18:28:00 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:28:01,095 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:30:06,986 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:30:06 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:30:07,039 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:32:00,752 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:32:00 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:32:00,805 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:32:26,948 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:32:26 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:32:27,008 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:38:47,997 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:38:47 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:38:48,050 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 18:40:33,937 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:40:33 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:40:33,989 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ WARN] 2018-08-13 18:40:34,297 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.A com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.a
+[ WARN] 2018-08-13 18:40:34,298 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.AAAA com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.aaaa
+[ WARN] 2018-08-13 18:40:34,298 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.NS com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.ns
+[ WARN] 2018-08-13 18:40:34,298 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.CNAME com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.cname
+[ WARN] 2018-08-13 18:40:34,298 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.PTR com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.ptr
+[ WARN] 2018-08-13 18:40:34,298 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.MX com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.mx
+[ WARN] 2018-08-13 18:40:34,298 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.SOA com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.soa
+[ WARN] 2018-08-13 18:40:34,298 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.Any com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.any
+[ WARN] 2018-08-13 18:40:34,298 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.NoneRecord com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.none
+[ INFO] 2018-08-13 18:41:23,362 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c51ef0: startup date [Mon Aug 13 18:41:23 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:41:23,422 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ WARN] 2018-08-13 18:41:23,798 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.A com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.a
+[ WARN] 2018-08-13 18:41:23,798 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.AAAA com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.aaaa
+[ WARN] 2018-08-13 18:41:23,798 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.NS com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.ns
+[ WARN] 2018-08-13 18:41:23,798 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.CNAME com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.cname
+[ WARN] 2018-08-13 18:41:23,798 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.PTR com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.ptr
+[ WARN] 2018-08-13 18:41:23,799 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.MX com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.mx
+[ WARN] 2018-08-13 18:41:23,799 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.SOA com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.soa
+[ WARN] 2018-08-13 18:41:23,799 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.Any com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.any
+[ WARN] 2018-08-13 18:41:23,799 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.NoneRecord com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.none
+[ INFO] 2018-08-13 18:46:36,751 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:46:36 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:46:36,802 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ WARN] 2018-08-13 18:46:37,122 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.A com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.a
+[ WARN] 2018-08-13 18:46:37,122 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.AAAA com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.aaaa
+[ WARN] 2018-08-13 18:46:37,122 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.NS com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.ns
+[ WARN] 2018-08-13 18:46:37,122 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.CNAME com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.cname
+[ WARN] 2018-08-13 18:46:37,122 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.PTR com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.ptr
+[ WARN] 2018-08-13 18:46:37,122 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.MX com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.mx
+[ WARN] 2018-08-13 18:46:37,122 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.SOA com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.soa
+[ WARN] 2018-08-13 18:46:37,122 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.Any com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.any
+[ WARN] 2018-08-13 18:46:37,123 [] [] Autowired annotation is not supported on static fields: static com.fxz.DNSServer.Mina.Handler.IRecordImpl.NoneRecord com.fxz.DNSServer.Mina.Handler.CommandFactory.RecordFactory.none
+[ INFO] 2018-08-13 18:49:16,148 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13d7254: startup date [Mon Aug 13 18:49:16 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 18:49:16,204 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 19:00:15,895 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@140243b: startup date [Mon Aug 13 19:00:15 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 19:00:15,953 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 19:00:16,155 [] [] Loading XML bean definitions from class path resource [spring-redis.xml]
+[ INFO] 2018-08-13 19:02:25,533 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11d20d3: startup date [Mon Aug 13 19:02:25 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 19:02:25,591 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 19:02:25,793 [] [] Loading XML bean definitions from class path resource [spring-redis.xml]
+[ INFO] 2018-08-13 19:03:25,276 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@17286ca: startup date [Mon Aug 13 19:03:25 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 19:03:25,345 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 19:03:25,571 [] [] Loading XML bean definitions from class path resource [spring-redis.xml]
+[ INFO] 2018-08-13 19:05:04,453 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@11d20d3: startup date [Mon Aug 13 19:05:04 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 19:05:04,514 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 19:05:04,716 [] [] Loading XML bean definitions from class path resource [spring-redis.xml]
+[ INFO] 2018-08-13 19:06:49,525 [] [] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7d3050: startup date [Mon Aug 13 19:06:49 CST 2018]; root of context hierarchy
+[ INFO] 2018-08-13 19:06:49,585 [] [] Loading XML bean definitions from class path resource [spring-context.xml]
+[ INFO] 2018-08-13 19:06:49,786 [] [] Loading XML bean definitions from class path resource [spring-redis.xml]
